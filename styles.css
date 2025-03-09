@@ -30,8 +30,14 @@ body {
             background-color: #c0504d;
             color: white;
         }
-        tr:nth-child(odd) {
-            background-color: #f2f2f2;
+		tr:nth-child(1) {
+            background-color: #da9694;
+        }
+		tr:nth-child(2) {
+            background-color: #f2dcdb;
+        }
+		tr:nth-child(3) {
+            background-color: #d9d9d9;
         }
         h1 {
             text-align: center;
